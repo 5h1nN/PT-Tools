@@ -4,7 +4,7 @@ Contain some of the well-known tools and self-written scripts that I normally us
 # Recon
 - `ffuf` Directory and parameter bruteforcing
 - `nmap` Port scanner and simple N-day checks
-- `subbrute` Checks for valid subdomain based on DNS. Can be checked with httpx to check if the subdomain is still in use. 
+- `subfinder` Checks for valid subdomain based on DNS. Can be checked with httpx to check if the subdomain is still in use. 
 - `httpx` Checks if host is alive.
 - `retirejs` Check for old javascripts
 - `wapplyzer` Check for language and framework used
